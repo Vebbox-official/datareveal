@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
+#landing {
+  background-image: url(./component/img/vision-landing-bg.jpg);
+  background-size: cover;
+}
+
+#get-in-touch-row {
+  background-image: url(./component/img/get-in-touch-bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 0;
+  margin: 0;
+}
+
+#parallax-row {
+  background-image: url(./component/img/parellax-bg.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+/* learning page */
+#page_content_h6 {
+  font-size: 1.05em;
+  font-weight: 400;
+  color: #0984e3;
+}
+
+#page_content_h3 {
+  font-size: 1.8em;
+  font-weight: 500;
+  color: #000;
+}
+
+#page_content_p {
+  font-size: 1.1em;
+  font-weight: 400;
+  color: #000;
+}
+
+#page_content_service p {
+  font-weight: 500;
+  color: #000;
+  text-transform: uppercase;
+}
+
+#page_content_service i {
+  font-size: 1.5em;
+}
+
+/* language page */
+#language_service_one {
+  border-left: 4px solid rgb(21, 115, 255);
+}
+
+#language_service_one p {
+  text-align: justify;
+  font-weight: 500;
+}
+
+#language_service_two p {
+  color: #000;
+  font-size: 1.1em;
+  font-weight: 400;
+  line-height: 2.5em;
+}
+
+#language_service_two i {
+  color: rgb(21, 115, 255);
+  font-size: 1.5em;
+}
+
+#language_service_three p {
+  color: #000;
+  font-size: 1.1em;
+  font-weight: 400;
+  line-height: 2.5em;
+}
+
+#language_service_three i {
+  color: rgb(21, 115, 255);
+  font-size: 1.5em;
+}

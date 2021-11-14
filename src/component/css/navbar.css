@@ -1,0 +1,11 @@
+#navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+}
+
+#navbar a {
+    font-size: 1.05em;
+    font-weight: 500;
+    color: #000;
+    text-transform: uppercase;
+}
