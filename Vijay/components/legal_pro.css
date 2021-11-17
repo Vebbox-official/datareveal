@@ -1,0 +1,19 @@
+.img
+{
+    height:300px;
+    width:300px;
+    margin-top: 60px;
+}
+
+.txt
+{
+    text-align: left;
+    margin-top: 100px;
+}
+
+.icon
+{
+    height:100px;
+    width:100px;
+    margin-top: -50px;
+}

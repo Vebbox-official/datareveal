@@ -1,0 +1,17 @@
+import React, { Component } from 'react'
+import { Row, Col, Container } from 'react-bootstrap'
+
+export default class Getintouch extends Component {
+    render() {
+        return (
+            <Container fluid>
+                <Row id="get-in-touch-row" className="p-4">
+                    <Col className="text-center">
+                        <h2 className="text-white text-capitalize">Get started with Data Reveal Today</h2>
+                        <button className="btn btn-outline-warning mt-2">Get in touch</button>
+                    </Col>
+                </Row>
+            </Container>
+        )
+    }
+}

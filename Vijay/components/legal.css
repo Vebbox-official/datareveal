@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
+#landing {
+  background-image: url(./assets/vision-landing-bg.jpg);
+  background-size: cover;
+}
+
+#get-in-touch-row {
+  background: linear-gradient(90deg, rgba(16, 44, 131, 1) 0%, rgba(22, 111, 147, 1) 100%);
+  padding: 0;
+  margin: 0;
+}
+
+#parallax-row {
+  background-image: url(./assets/parellax-bg.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+/* learning page */
+#page_content_h6 {
+  font-size: 1.05em;
+  font-weight: 400;
+  color: #0984e3;
+}
+
+#page_content_h3 {
+  font-size: 1.8em;
+  font-weight: 500;
+  color: #000;
+}
+
+#page_content_p {
+  font-size: 1.1em;
+  font-weight: 400;
+  color: #000;
+}
+
+#page_content_service p {
+  font-weight: 500;
+  color: #000;
+  text-transform: uppercase;
+}
+
+#page_content_service i {
+  font-size: 1.5em;
+}
