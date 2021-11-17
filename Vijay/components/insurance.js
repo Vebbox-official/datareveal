@@ -1,21 +1,20 @@
 import React from 'react';
-import './legal.css';
 import {Container,Row,Col} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Legalsec from './legal_sec';
 import Parallax from './parallax';
 import Heading from './heading';
-// import Features from './features';
+import Features from './features';
 import Profile from './profile';
-// import Legalpro from './legal_pro';
-import Inssec from './ins-sec';
+import Legalpro from './legal_pro';
+//import Inssec from './ins-sec';
 import Getintouch from './get-in-touch';
 import Footer from './footer';
 import Bg from './assets/feature-2.webp';
-// import pro from './assets/img.webp';
-// import pro1 from './assets/vision-landing-mg_65.webp';
-// import icon1 from './assets/vision-serv-three.png';
-// import icon2 from './assets/vision-serv-three.png';
+import pro from './assets/img.webp';
+import pro1 from './assets/vision-landing-mg_65.webp';
+import icon1 from './assets/vision-serv-three.png';
+import icon2 from './assets/vision-serv-three.png';
 
 
 function Insurance() {
@@ -65,7 +64,7 @@ function Insurance() {
                 </Col>
             </Row>
 
-            {/* <Row>
+            <Row>
                 <Legalpro icon1={icon1} icon2={icon2} det1="Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
                 img2={pro} img3={pro1}/> 
             </Row>
@@ -75,12 +74,12 @@ function Insurance() {
             </Row> 
             <Row Style="margin-top:30px;">
                 <Features/>
-            </Row> */}
-
+            </Row> 
     </Container>
-    <Row>
+
+    {/* <Row>
         <Inssec/> 
-    </Row>
+    </Row>  */}
 
                 
             <Row>

@@ -1,0 +1,12 @@
+.profile
+{
+    border:1px solid #007CE1;
+    border-radius: 12px;
+    height: 300px;
+    text-align: center;
+    /* width:200px; */
+}
+.profile:hover{
+    background-color: #007CE1;
+    color:#fff;
+}

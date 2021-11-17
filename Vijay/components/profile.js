@@ -1,5 +1,5 @@
 import React from 'react';
-import './profile.css';
+import './css/profile.css';
 import pro1 from './assets/1.svg';
 import {Button} from 'react-bootstrap';
 function Profile() {

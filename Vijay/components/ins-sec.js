@@ -1,5 +1,5 @@
 import React from 'react';
-import './ins-sec.css';
+import './css/ins-sec.css';
 import {Container,Row,Col} from 'react-bootstrap';
 import imgsec from './assets/carousel.webp';
 function Inssec() {

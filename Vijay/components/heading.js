@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './heading.css';
+import './css/heading.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export class heading extends Component {

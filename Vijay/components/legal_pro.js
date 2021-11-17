@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './legal_pro.css';
+import './css/legal_pro.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container,Row,Col } from 'react-bootstrap';
 

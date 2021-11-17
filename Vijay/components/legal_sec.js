@@ -1,5 +1,5 @@
 import React from 'react';
-import './legal_sec.css';
+import './css/legal_sec.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
