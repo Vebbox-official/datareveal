@@ -1,0 +1,7 @@
+#parallax-row {
+    background-image: url(../img/parellax-bg.jpg); 
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+  }

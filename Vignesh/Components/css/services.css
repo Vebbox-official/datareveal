@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.services-bg{
+  /* background-image: url(../img/services-bg.svg);
+  background-size: cover; */
+  background-color: cadetblue;
+}
+.services-div{
+   height: 350px;
+    width: auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgb(64 64 64 / 20%);
+   
+}
+.services-div:hover {
+    border-radius: 6px;
+    background-color: #37d0f7;
+    color: #000;
+  }
+  .services-div h3{
+      color:#37d0f7 ;
+  }
+  .services-div:hover h3 {
+   
+    color: #000;
+  }
+  .features-div{
+    height: 350px;
+     width: auto;
+     background-color: #fff;
+     box-shadow: 0 0 10px 0 rgb(64 64 64 / 20%);
+     color: #000;
+ }
+ .features-div:hover {
+  border-radius: 6px;
+  background-color: #fff;
+  color: #37d0f7;
+}

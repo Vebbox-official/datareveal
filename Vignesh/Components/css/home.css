@@ -1,0 +1,9 @@
+div{
+    padding: 0%;
+    margin: 0%;
+}
+.services-bg{
+  background-image: url(../img/service-section-index-bg.jpg);
+  background-size: cover;
+  /* background-color: cadetblue; */
+}

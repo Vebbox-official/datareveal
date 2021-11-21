@@ -1,0 +1,15 @@
+.teammateDiv{
+    width:auto;
+    height:33rem;
+    box-shadow: 0 0 10px 0 rgb(64 64 64 / 20%);
+}
+.teammateImg{
+ height:18rem;
+}
+.teamDetailes{
+    line-height:2rem;
+}
+.teamDetailes h6{
+    font-size: 13.5px;
+    color: rgb(35, 182, 219);
+}
